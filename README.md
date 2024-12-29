@@ -1,5 +1,5 @@
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="text-decoration: none;">>
+<p align="left">
     <a href="https://tedez.dev" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 10px; text-decoration: none;">
         <img align="center" src="https://cdn-icons-png.flaticon.com/128/1927/1927746.png" alt="TedezDev" height="54" width="54" />
     </a>
