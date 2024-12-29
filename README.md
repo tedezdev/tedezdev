@@ -1,3 +1,4 @@
+<style>a {text-decoration: none;}</style>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://tedez.dev" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 10px; text-decoration: none;">
