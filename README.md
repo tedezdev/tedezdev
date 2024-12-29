@@ -18,3 +18,6 @@
     <a href="https://www.nginx.com" target="_blank" rel="noopener noreferrer nofollow" style="display: inline-block; margin-right: 10px; text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45" /></a>
     <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer nofollow" style="display: inline-block; text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45" /></a>
 </p>
+## Examples
+- [MyTeamSpeak Short DNS] (https://github.com/tedezdev/myteamspeak-dns-api)
+- [Fivem Proxy] (https://github.com/tedezdev/nginx/tree/main/fivem)
