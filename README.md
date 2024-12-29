@@ -1,7 +1,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://tedez.dev" target="blank"><img align="center" src="https://www.svgrepo.com/show/231646/worldwide-world.svg" alt="TedezDev" height="30" width="40" /></a>
-    <a href="https://x.com/tedezdev" target="blank" rel="noreferrer nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TedezDev" height="30" width="40" /></a>
+    <a href="https://x.com/tedezdev" target="blank" rel="noreferrer nofollow"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" alt="TedezDev" height="30" width="40" /></a>
     <a href="https://instagram.com/tedezdev" target="blank" rel="noreferrer nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TedezDev" height="30" width="40" /></a>
 </p>
 
